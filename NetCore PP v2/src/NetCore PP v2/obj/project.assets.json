@@ -10814,11 +10814,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Git Repos\\NetCore PP v2\\src\\NetCore PP v2\\NetCore PP v2.csproj",
+      "projectUniqueName": "D:\\Projects\\Git Repository\\NetCore PP v2\\src\\NetCore PP v2\\NetCore PP v2.csproj",
       "projectName": "NetCore PP v2",
-      "projectPath": "D:\\Projects\\Git Repos\\NetCore PP v2\\src\\NetCore PP v2\\NetCore PP v2.csproj",
+      "projectPath": "D:\\Projects\\Git Repository\\NetCore PP v2\\src\\NetCore PP v2\\NetCore PP v2.csproj",
       "packagesPath": "C:\\Users\\mahmoud.ibrahim\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Git Repos\\NetCore PP v2\\src\\NetCore PP v2\\obj\\",
+      "outputPath": "D:\\Projects\\Git Repository\\NetCore PP v2\\src\\NetCore PP v2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mahmoud.ibrahim\\AppData\\Roaming\\NuGet\\NuGet.Config",
